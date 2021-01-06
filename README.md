@@ -1,5 +1,7 @@
 ## Thang Phan
 
+![A handsome man](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/136433011_3335181569921810_7563291832489867462_n.jpg?_nc_cat=102&ccb=2&_nc_sid=730e14&_nc_ohc=LTDw31bsJksAX-pjhcP&_nc_ht=scontent-lax3-1.xx&oh=2c03e583e6e77b6f52cbb5aec41ba739&oe=60195DB1)
+
 Hi everyone! I'm Thang Phan and I'm a student at UCSD majoring in computer science graduating in 2022. I'm an aspiring Product Manager and Entrepreuneur. My main career interests are product management, product design, and strategy/operations. Visit my [Linkedin](https://www.linkedin.com/in/thangmichaelphan/) for a brief overview of my background. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
