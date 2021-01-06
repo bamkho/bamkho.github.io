@@ -21,6 +21,15 @@ This quote really resonates with me because although I do possess a 4.0, I still
 
 As you can tell this Github page is really just all over the place. This is because I need to include various markdown elements in it for an assigment for my CSE 110 software engineering class *which by the way I am extremely excited to take despite knowing no code* For my assignment I need to have an ordered and nested list so the ordered list you see if the rankings of my favorite fast food restaurants and the nested list will be a list of my favorite classes and why I liked them.
 
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
+## Favorite Fast Food
+1. In-N-Out
+2. Chipotle 
+3. Raising Canes
+4. McDonalds
+5. Chick-Fil-A
+
 ## Favorite Fast Food
 1. In-N-Out
 2. Chipotle 
