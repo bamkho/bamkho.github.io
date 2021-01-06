@@ -4,6 +4,8 @@
 
 Hi everyone! I'm **Thang Phan** and I'm a student at UCSD majoring in computer science graduating in *2022*. I'm an aspiring Product Manager and Entrepreuneur. My main career interests are product management, product design, and strategy/operations. Visit my [Linkedin](https://www.linkedin.com/in/thangmichaelphan/) for a brief overview of my background. ~~Also, I know how to code really well!~~ Just kidding, I also know no code. I am trying to learn though and hopefully I'll know at least how to code a simple web page. **When its 2022, contact me, and if I don't know how to code a simple web page by then I will personally give you a dollar**
 
+[My favorite fast food](#Favorite Fast Food)
+
 ```
 function test() {
   console.log("Hello World!");
@@ -35,10 +37,13 @@ As you can tell this Github page is really just all over the place. This is beca
    - Learned to utilize office hours
 2. CSE 30 
    - Was a really challenging course 
-     - nani
-   - Got a taste of lower level programming
+     - I spend 5 days straight studying 12 hours a day to prepare for the final
+   - Got a taste of low level programming
+   - Met my best friend Steven Steiner
 3. CSE 190
-4. MGT 103
+   - Learned that products are successful if the customer wants it
+   - The idea my group came up gave birth to one of the startups I work on now
+   - Professor gave my team a recommendation into the NSF I-corp program (Thanks Professor Kumar)
 
 
 
