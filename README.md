@@ -45,6 +45,8 @@ As you can tell this Github page is really just all over the place. This is beca
    - The idea my group came up gave birth to one of the startups I work on now
    - Professor gave my team a recommendation into the NSF I-corp program (Thanks Professor Kumar)
 
+[a relative link to this page](README.md)
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
