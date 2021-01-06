@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Thang Phan
 
-You can use the [editor on GitHub](https://github.com/bamkho/bamkho.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi everyone! I'm Thang Phan and I'm a student at UCSD majoring in computer science graduating in 2022. I'm an aspiring Product Manager and Entrepreuneur. My main career interests are product management, product design, and strategy/operations. Visit my [Linkedin](https://www.linkedin.com/in/thangmichaelphan/) for a brief overview of my background. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
