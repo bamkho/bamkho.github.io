@@ -4,7 +4,7 @@
 
 Hi everyone! I'm **Thang Phan** and I'm a student at UCSD majoring in computer science graduating in *2022*. I'm an aspiring Product Manager and Entrepreuneur. My main career interests are product management, product design, and strategy/operations. Visit my [Linkedin](https://www.linkedin.com/in/thangmichaelphan/) for a brief overview of my background. ~~Also, I know how to code really well!~~ Just kidding, I also know no code. I am trying to learn though and hopefully I'll know at least how to code a simple web page. **When its 2022, contact me, and if I don't know how to code a simple web page by then I will personally give you a dollar**
 
-[My favorite fast food](#Favorite Fast Food)
+[My favorite fast food](#FavoriteFastFood)
 
 ```
 function test() {
