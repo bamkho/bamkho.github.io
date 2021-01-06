@@ -2,7 +2,11 @@
 
 ![A handsome man](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/135845964_3335192283254072_7964378784283208427_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=7e-ql209sKYAX9jvOad&_nc_ht=scontent-lax3-1.xx&oh=065fadf6afa344f00c94d0b4899ca78c&oe=601A0E73)
 
-Hi everyone! I'm Thang Phan and I'm a student at UCSD majoring in computer science graduating in 2022. I'm an aspiring Product Manager and Entrepreuneur. My main career interests are product management, product design, and strategy/operations. Visit my [Linkedin](https://www.linkedin.com/in/thangmichaelphan/) for a brief overview of my background. 
+Hi everyone! I'm **Thang Phan** and I'm a student at UCSD majoring in computer science graduating in *2022*. I'm an aspiring Product Manager and Entrepreuneur. My main career interests are product management, product design, and strategy/operations. Visit my [Linkedin](https://www.linkedin.com/in/thangmichaelphan/) for a brief overview of my background. ~~Also, I know how to code really well!~~ Just kidding, I also know no code. I am trying to learn though and hopefully I'll know at least how to code a simple web page. **When its 2022, contact me, and if I don't know how to code a simple web page by then I will personally give you a dollar**
+
+One of my all time favorite quotes is the following
+>  “Genius is 1% talent and 99% percent hard work...”
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
