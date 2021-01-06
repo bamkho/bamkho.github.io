@@ -23,6 +23,9 @@ As you can tell this Github page is really just all over the place. This is beca
 
 [a link](https://github.com/user/repo/blob/branch/other_file.md)
 
+[a relative link](other_file.md)
+
+
 ## Favorite Fast Food
 1. In-N-Out
 2. Chipotle 
